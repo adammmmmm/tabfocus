@@ -5,7 +5,7 @@ A simple extension to hide the tab and menu portions of the browser window.
 ![Example screenshot](./src/images/examples/example.png)
 
 ## Description
-- Opens current tab and in a new popup window
+- Opens current tab in a new popup window
 - Hides the URL bar (omnibox), tabs, and bookmarks
 - Reduces menu size by over 70%
 
