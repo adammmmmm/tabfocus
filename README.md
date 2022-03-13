@@ -11,7 +11,7 @@ A simple extension to hide the tab and menu portions of the browser window.
 
 ## Usage
 - Toggle from the context menu (right click -> Toggle TabFocus)
-- Or click the extension icon (tip: right)
+- Or click the extension icon
 
 ## Installation
 1. Clone git repo: `git clone git@github.com:adammmmmm/tabfocus.git`
